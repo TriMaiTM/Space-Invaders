@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Supernova
+  - Bullet
+  - Atom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Spaceship
+  - MapEdge
+  - Supernova
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4236025025
+    locked: 0
+  - name: Asteroid
+    uniqueID: 1574945855
+    locked: 0
+  - name: Player
+    uniqueID: 1084241063
+    locked: 0
+  - name: HUD
+    uniqueID: 4252581571
+    locked: 0
+  m_RenderingLayers:
+  - Default
